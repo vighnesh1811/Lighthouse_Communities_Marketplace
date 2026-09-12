@@ -1,5 +1,4 @@
-CREATE DATABASE IF NOT EXISTS lighthouse_marketplace;
-USE lighthouse_marketplace;
+USE defaultdb;
 
 CREATE TABLE admins (
   id INT PRIMARY KEY AUTO_INCREMENT,
